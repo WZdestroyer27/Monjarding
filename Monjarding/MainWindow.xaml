@@ -1,0 +1,98 @@
+﻿<Window x:Class="Monjarding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Monjarding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="1000">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Label x:Name="rotor1_1" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_2" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_3" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_4" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_5" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_6" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_7" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_8" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_9" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_10" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_11" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_12" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_13" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_14" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_15" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_16" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_17" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_18" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_19" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_20" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_21" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_22" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_23" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_24" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_25" Content="A" FontSize="36"/>
+                <Label x:Name="rotor1_26" Content="A" FontSize="36"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label x:Name="rotor2_1" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_2" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_3" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_4" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_5" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_6" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_7" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_8" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_9" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_10" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_11" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_12" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_13" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_14" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_15" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_16" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_17" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_18" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_19" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_20" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_21" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_22" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_23" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_24" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_25" Content="A" FontSize="36"/>
+                <Label x:Name="rotor2_26" Content="A" FontSize="36"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label x:Name="rotor3_1" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_2" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_3" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_4" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_5" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_6" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_7" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_8" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_9" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_10" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_11" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_12" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_13" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_14" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_15" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_16" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_17" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_18" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_19" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_20" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_21" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_22" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_23" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_24" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_25" Content="A" FontSize="36"/>
+                <Label x:Name="rotor3_26" Content="A" FontSize="36"/>
+            </StackPanel>
+            <Label x:Name="inputLabel" FontSize="36"/>
+        </StackPanel>
+    </Grid>
+</Window>
